@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\Texture Composition\Debug\Texture Composition.exe
+C:\Users\admin\source\repos\Texture Composition\Debug\Texture Composition.pdb

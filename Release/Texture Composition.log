@@ -1,0 +1,13 @@
+﻿  pixel_based_full_search.cpp
+  Texture Composition.cpp
+C:\Users\admin\source\repos\Texture Composition\Texture Composition.cpp(25,13): warning C4101: “time_sec”: 未引用的局部变量
+C:\Users\admin\source\repos\Texture Composition\Texture Composition.cpp(19,19): warning C4101: “intex”: 未引用的局部变量
+C:\Users\admin\source\repos\Texture Composition\Texture Composition.cpp(26,13): warning C4101: “time_m”: 未引用的局部变量
+C:\Users\admin\source\repos\Texture Composition\Texture Composition.cpp(27,13): warning C4101: “time_s”: 未引用的局部变量
+C:\Users\admin\source\repos\Texture Composition\Texture Composition.cpp(24,25): warning C4101: “time_end”: 未引用的局部变量
+C:\Users\admin\source\repos\Texture Composition\Texture Composition.cpp(21,19): warning C4101: “outtex”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Texture Composition.vcxproj -> C:\Users\admin\source\repos\Texture Composition\Release\Texture Composition.exe
